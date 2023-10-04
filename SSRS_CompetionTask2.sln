@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_CompetionTask2", "SSRS_CompetionTask2\SSRS_CompetionTask2.rptproj", "{DCE01BF6-AB05-445C-89DB-3A348495854A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.Debug|Default.ActiveCfg = Debug
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.Debug|Default.Build.0 = Debug
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.Debug|Default.Deploy.0 = Debug
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.DebugLocal|Default.Build.0 = DebugLocal
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.Release|Default.ActiveCfg = Release
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.Release|Default.Build.0 = Release
+		{DCE01BF6-AB05-445C-89DB-3A348495854A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D83EAA-6608-441F-B045-DDB697E713E7}
+	EndGlobalSection
+EndGlobal
