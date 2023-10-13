@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Competition_Sprint2_task", "Competition_Sprint2_task\Competition_Sprint2_task.rptproj", "{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.Debug|Default.ActiveCfg = Debug
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.Debug|Default.Build.0 = Debug
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.Debug|Default.Deploy.0 = Debug
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.DebugLocal|Default.Build.0 = DebugLocal
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.Release|Default.ActiveCfg = Release
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.Release|Default.Build.0 = Release
+		{C3CE6FBE-C27E-463A-AEB7-41456BE1F4A4}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5970223B-0BBB-4E50-951C-C69C7AA87607}
+	EndGlobalSection
+EndGlobal
